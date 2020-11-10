@@ -38,7 +38,7 @@ gem 'jbuilder', '~> 2.5'
 
 
 #BulmaCSS
-gem 'bulma-rails', '~> 0.9.0'
+gem "bulma-rails", "~> 0.9.0"
 
 
 #form editor
